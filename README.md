@@ -1,5 +1,5 @@
 # uarray2
-An implementation of an array using Hanson's Interface
+An implementation of an array using Hanson's Interface and some use cases for it
 
 Made in collaboration with Jason Gwozdz
 
